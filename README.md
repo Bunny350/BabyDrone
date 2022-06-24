@@ -1,5 +1,5 @@
-# BabyDrone-s3
- BabyDrone s3 Drone frame.
+# BabyDrone
+ BabyDrone Drone frame.
  This repository shows the latest version of BabyDrone. For the obsolete original version in case of replacements, you may [click here to direct to Google Drive](https://drive.google.com/drive/folders/1mRVKXkRRI-ibk0Vg7jMM83BpLp3x9MYo?usp=sharing).
 
 [BOM and recommended parts](https://docs.google.com/spreadsheets/d/1IQkC4gDLAdXt6IGstceP1JtyM6Y9FWOJbo1eZ_qgDFI/edit?usp=sharing)
